@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+defect_model.h5
+dataset/
